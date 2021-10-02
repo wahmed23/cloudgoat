@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "owner": "eqw",
+    "title": "qweqwee12",
+    "description": "1231"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "123123"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "123123",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "3123123"
+  }
+}
